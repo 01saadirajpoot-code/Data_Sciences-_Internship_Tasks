@@ -1,58 +1,92 @@
 Prepared By: Muhammad Saad Ur Rehman [DHC-2805]
+
 # Data Science Internship Tasks – DevelopersHub
 
-## 📌 Task 1: Iris Dataset Exploration & Visualization
+
+---
+
+# 📌 Task 1: Iris Dataset Exploration & Visualization
 
 ### 📖 Objective
 
-The goal of this task is to explore and visualize the Iris dataset using Python libraries such as pandas, matplotlib, and seaborn.
+To explore and visualize the Iris dataset using Python libraries.
+
+### 📊 Key Work
+
+* Data loading using pandas
+* Data inspection
+* Scatter plot, histogram, box plot
+
+### 🔍 Insights
+
+* Clear separation between species
+* Petal length varies significantly
+
+---
+
+# 📌 Task 2: Loan Default Prediction
+
+### 📖 Objective
+
+To predict whether a loan applicant will default using machine learning.
 
 ---
 
 ### 📊 Dataset Description
 
-The Iris dataset contains 150 records of iris flowers with the following features:
+A sample dataset containing:
 
-* Sepal Length
-* Sepal Width
-* Petal Length
-* Petal Width
-* Species
+* Income
+* Loan Amount
+* Education
+* Default (Target Variable)
 
 ---
 
-### ⚙️ Tools & Libraries Used
+### ⚙️ Tools & Libraries
 
 * Python
 * Google Colab
 * pandas
-* matplotlib
 * seaborn
+* scikit-learn
 
 ---
 
-### 📈 Key Steps Performed
+### 🔧 Steps Performed
 
-* Loaded dataset using seaborn
-* Explored dataset using `.shape`, `.columns`, `.head()`
-* Generated visualizations:
+* Data loading and inspection
+* Handling categorical data
+* Data visualization
+* Train-test split
+* Logistic Regression model training
+* Model evaluation
 
-  * Scatter Plot
-  * Histogram
-  * Box Plot
+---
+
+### 📈 Results
+
+* Model accuracy calculated
+* Confusion matrix used for evaluation
 
 ---
 
 ### 🔍 Key Insights
 
-* Petal length varies significantly across species
-* Setosa species has smaller petal sizes compared to others
-* Clear relationship observed between sepal length and petal length
+* Higher income reduces chances of default
+* Loan amount influences repayment behavior
+* Education has some impact on prediction
 
 ---
 
 ### ✅ Conclusion
 
-Data visualization helped in understanding patterns and differences between species effectively.
+The Logistic Regression model successfully predicts loan default based on given features.
 
+---
+
+## 📎 Notebooks
+
+* Task 1: Iris Dataset Analysis
+* Task 2: Loan Prediction Model
 
