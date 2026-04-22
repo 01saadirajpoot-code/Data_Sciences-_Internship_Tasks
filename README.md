@@ -55,8 +55,4 @@ The Iris dataset contains 150 records of iris flowers with the following feature
 
 Data visualization helped in understanding patterns and differences between species effectively.
 
----
 
-### 📎 Notebook Link
-
-(Upload notebook and paste link here)
