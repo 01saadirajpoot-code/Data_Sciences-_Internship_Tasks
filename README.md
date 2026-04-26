@@ -3,19 +3,19 @@
 📊Data Science Internship Tasks – DevelopersHub
 
 
-  🚀 Overview
 
-This repository contains completed tasks from the Data Science & Analytics Internship at DevelopersHub. The tasks demonstrate skills in data analysis, visualization, and machine learning.
+🚀 Overview
+
+This repository contains completed tasks from the Data Science & Analytics Internship at DevelopersHub. These projects demonstrate practical skills in data analysis, visualization, and machine learning.
 
 
-  📁 Tasks Included
-
+ 📁 Tasks Included
 
     🔹 Task 1: Iris Dataset Analysis
 
 * Data exploration and visualization
 * Scatter plots, histograms, box plots
-  
+
 
     🔹 Task 2: Loan Default Prediction
 
@@ -23,12 +23,18 @@ This repository contains completed tasks from the Data Science & Analytics Inter
 * Data preprocessing and evaluation
 
 
-    🔹 Task 3: Customer Churn Prediction
+     🔹 Task 3: Customer Churn Prediction
 
-* One-hot encoding of categorical variables
-* Machine learning model for churn prediction
+* One-hot encoding
+* Classification modeling
 * Feature importance analysis
 
+
+    🔹 Task 4: Insurance Cost Prediction
+
+* Regression modeling using Linear Regression
+* MAE and RMSE evaluation
+* Correlation analysis
 
 
 🛠️ Tools & Technologies
@@ -40,21 +46,25 @@ This repository contains completed tasks from the Data Science & Analytics Inter
 * scikit-learn
 
 
- 📌 Key Skills Demonstrated
+📌 Key Skills Demonstrated
 
 * Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
 * Data Visualization
-* Machine Learning (Classification)
+* Machine Learning (Classification & Regression)
 * Model Evaluation
 
-📎 Notebooks
 
+📎 Structure
 
-Each task is organized in its respective folder with detailed explanations and code.
+Each task is organized in its own folder with:
+
+* Jupyter Notebook
+* Detailed README
 
 
 ✅ Conclusion
 
-This repository reflects practical implementation of core data science concepts and serves as a strong foundation for advanced projects.
+This repository reflects hands-on experience with core data science workflows and serves as a strong foundation for advanced analytics projects.
+
 
