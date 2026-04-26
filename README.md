@@ -1,92 +1,60 @@
-Prepared By: Muhammad Saad Ur Rehman [DHC-2805]
+👨‍💻Prepared By: Muhammad Saad Ur Rehman [DHC-2805]
 
-# Data Science Internship Tasks – DevelopersHub
+📊Data Science Internship Tasks – DevelopersHub
 
 
----
+  🚀 Overview
 
-# 📌 Task 1: Iris Dataset Exploration & Visualization
+This repository contains completed tasks from the Data Science & Analytics Internship at DevelopersHub. The tasks demonstrate skills in data analysis, visualization, and machine learning.
 
-### 📖 Objective
 
-To explore and visualize the Iris dataset using Python libraries.
+  📁 Tasks Included
 
-### 📊 Key Work
 
-* Data loading using pandas
-* Data inspection
-* Scatter plot, histogram, box plot
+    🔹 Task 1: Iris Dataset Analysis
 
-### 🔍 Insights
+* Data exploration and visualization
+* Scatter plots, histograms, box plots
+  
 
-* Clear separation between species
-* Petal length varies significantly
+    🔹 Task 2: Loan Default Prediction
 
----
+* Binary classification using Logistic Regression
+* Data preprocessing and evaluation
 
-# 📌 Task 2: Loan Default Prediction
 
-### 📖 Objective
+    🔹 Task 3: Customer Churn Prediction
 
-To predict whether a loan applicant will default using machine learning.
+* One-hot encoding of categorical variables
+* Machine learning model for churn prediction
+* Feature importance analysis
 
----
 
-### 📊 Dataset Description
 
-A sample dataset containing:
-
-* Income
-* Loan Amount
-* Education
-* Default (Target Variable)
-
----
-
-### ⚙️ Tools & Libraries
+🛠️ Tools & Technologies
 
 * Python
 * Google Colab
 * pandas
-* seaborn
+* seaborn & matplotlib
 * scikit-learn
 
----
 
-### 🔧 Steps Performed
+ 📌 Key Skills Demonstrated
 
-* Data loading and inspection
-* Handling categorical data
-* Data visualization
-* Train-test split
-* Logistic Regression model training
-* Model evaluation
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Machine Learning (Classification)
+* Model Evaluation
 
----
+📎 Notebooks
 
-### 📈 Results
 
-* Model accuracy calculated
-* Confusion matrix used for evaluation
+Each task is organized in its respective folder with detailed explanations and code.
 
----
 
-### 🔍 Key Insights
+✅ Conclusion
 
-* Higher income reduces chances of default
-* Loan amount influences repayment behavior
-* Education has some impact on prediction
-
----
-
-### ✅ Conclusion
-
-The Logistic Regression model successfully predicts loan default based on given features.
-
----
-
-## 📎 Notebooks
-
-* Task 1: Iris Dataset Analysis
-* Task 2: Loan Prediction Model
+This repository reflects practical implementation of core data science concepts and serves as a strong foundation for advanced projects.
 
